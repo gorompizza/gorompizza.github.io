@@ -1,5 +1,5 @@
 html { 
-  background: url(http://maps.googleapis.com/maps/api/staticmap?center=22.701282,+90.358265&zoom=18&scale=2&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CMajor+M+A+jalil+Road,+Karim+Kutir,+Barisal) no-repeat center center fixed; 
+  background: url("../../img/staticmap.png") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
