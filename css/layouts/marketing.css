@@ -106,6 +106,12 @@ label {
 }
 
 
+/*
+ * Map
+ */
+iframe {
+    padding-top: 1em;
+}
 
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --
