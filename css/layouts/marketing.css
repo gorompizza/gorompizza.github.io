@@ -61,8 +61,9 @@ label {
 /* This is the main heading that appears on the blue section */
 .splash-head {
     margin-top: 3em;
+    margin-bottom: 1em;
     color: red;
-    font-size: 370%;
+    font-size: 340%;
 }
 
 /* This is the subheading that appears on the blue section */
@@ -145,6 +146,6 @@ iframe {
  */
 @media (min-width: 78em) {
     .splash-head {
-        font-size: 370%;
+        font-size: 340%;
     }
 }
