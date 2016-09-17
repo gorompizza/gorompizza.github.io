@@ -12,6 +12,7 @@ body {
     line-height: 1.7em;
     color: #7f8c8d;
     font-size: 13px;
+    background-color: black;
 }
 
 h1,
@@ -22,6 +23,10 @@ h5,
 h6,
 label {
     color: #34495e;
+}
+
+.splash h2 {
+    color: white;
 }
 
 .pure-img-responsive {
@@ -56,7 +61,7 @@ label {
 /* This is the main heading that appears on the blue section */
 .splash-head {
     margin-top: 3em;
-    color: orange;
+    color: red;
 }
 
 /* This is the subheading that appears on the blue section */
