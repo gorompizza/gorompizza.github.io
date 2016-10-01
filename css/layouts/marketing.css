@@ -117,6 +117,18 @@ label {
     font-size: 85%;
 }
 
+.splash h2.phone a:link,
+.splash h2.phone a:visited,
+.splash h2.phone a:hover,
+.splash h2.phone a:active {
+    text-decoration: none;
+    color: white;
+    font-size: 100%;
+}
+
+
+
+
 /*
  * Map
  */
